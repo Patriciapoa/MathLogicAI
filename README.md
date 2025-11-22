@@ -1,4 +1,4 @@
-# Mathsense
+# MathLogicalAI
 Agente de Matemática que explica cálculos passo a passo no Foundry.
 
 📌 Descrição do Projeto
