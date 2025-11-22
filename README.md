@@ -2,7 +2,7 @@
 Agente de Matemática que explica cálculos passo a passo no Foundry.
 
 📌 Descrição do Projeto
-O MathSenseAI é um agente desenvolvido no Microsoft Copilot Foundry com o objetivo de explicar cálculos matemáticos de forma clara, didática e passo a passo.
+O MathLogicalAI é um agente desenvolvido no Microsoft Copilot Foundry com o objetivo de explicar cálculos matemáticos de forma clara, didática e passo a passo.
 Ele interpreta expressões matemáticas enviadas pelo usuário, resolve o cálculo e apresenta como chegou ao resultado, tornando o aprendizado mais fácil.
 Esse agente é ideal para estudantes, iniciantes e qualquer pessoa que queira compreender a lógica por trás das operações.
 ________________________________________
