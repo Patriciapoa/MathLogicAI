@@ -1,3 +1,4 @@
+<img width="200" height="402" alt="image" src="https://github.com/user-attachments/assets/0f57ec2a-db47-44fb-b1d3-f4aa61b91ba1" />
 # MathLogicalAI
 Agente de Matemática que explica cálculos passo a passo no Foundry.
 
@@ -23,6 +24,17 @@ Uma ação funcional configurada no Foundry que:
 O fluxo é simples:
 Usuário envia cálculo → Ação 'explicar_calculo' → Agente processa → Resposta explicada passo a passo
 ________________________________________
+📌Fluxograma
+
+<img width="275" height="518" alt="image" src="https://github.com/user-attachments/assets/a17f11a1-d1c1-450a-8610-39f31aab2d35" />
+
+________________________________________
+📌Tela agente do foundry
+
+<img width="1426" height="891" alt="image" src="https://github.com/user-attachments/assets/dadfac69-c53e-4127-9722-203c9cf2f309" />
+
+
+________________________________________
 📚 Referências Utilizadas
 •	Documentação Microsoft Foundry
 •	Documentação de Actions no Copilot Studio
@@ -30,5 +42,4 @@ ________________________________________
 o	https://learn.microsoft.com/...
 o	https://foundry.microsoft.com/...
 
-<img width="200" height="402" alt="image" src="https://github.com/user-attachments/assets/0f57ec2a-db47-44fb-b1d3-f4aa61b91ba1" />
 
