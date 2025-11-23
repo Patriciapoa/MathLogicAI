@@ -1,5 +1,5 @@
 <img width="200" height="402" alt="image" src="https://github.com/user-attachments/assets/0f57ec2a-db47-44fb-b1d3-f4aa61b91ba1" />
-# MathLogicalAI
+# MathLogicAI
 Agente de Matemática que explica cálculos passo a passo no Foundry.
 
 📌 Descrição do Projeto
