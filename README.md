@@ -26,7 +26,8 @@ Usuário envia cálculo → Ação 'explicar_calculo' → Agente processa → Re
 ________________________________________
 📌Fluxograma
 
-<img width="275" height="518" alt="image" src="https://github.com/user-attachments/assets/a17f11a1-d1c1-450a-8610-39f31aab2d35" />
+<img width="275" height="518" alt="image" src="https://github.com/user-attachments/assets/c37e3c26-ee64-4005-add5-3ecf455a3c67" />
+
 
 ________________________________________
 📌Tela agente do foundry
